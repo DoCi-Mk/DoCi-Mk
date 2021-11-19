@@ -4,8 +4,12 @@
 Python , JavaScript , HTML , CSS , PHP
 </em></p>
 
+<p align="left">
+  <a href="https://discord.gg/Ed2EHXunFA"><img alt="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" title="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" height="32" width="32" src="assets/discord.svg"></a>
+</p>
 
-### <img src="https://cdn.discordapp.com/emojis/905457582158798888.png?size=4096" width="50"> A little more about me...  
+
+### ⭕ More About Me !
 
 ```javascript
 const DoCi = {
