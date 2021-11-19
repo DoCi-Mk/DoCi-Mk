@@ -1,6 +1,6 @@
 <h2><em> Hi, I'm Soroush! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.discordapp.com/attachments/869114893096345600/911259802364178463/Logo.png" width="230">
-<p>A Mid Level Developer & Verified Discord Developer </br>Learning : `Python , JavaScript , HTML , CSS , PHP`> 
+<p>A Mid Level Developer & Verified Discord Developer </br>Learning : ```Python , JavaScript , HTML , CSS , PHP```
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
