@@ -5,7 +5,7 @@ Python , JavaScript , HTML , CSS , PHP
 </em></p>
 
 <p align="left">
-  <a href="https://discord.gg/Ed2EHXunFA"><img alt="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" title="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" height="32" width="32" src="assets/discord.svg"></a>
+  <a href="https://discord.gg/Ed2EHXunFA"><img alt="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" title="Discord - ろ𝐃𝐨𝐜𝐢 𝐂𝐢𝐞𝐥𝐨#5230" height="32" width="32" src=https://cdn.discordapp.com/attachments/864936919312629850/911263759413174322/discord.png></a>
 </p>
 
 
