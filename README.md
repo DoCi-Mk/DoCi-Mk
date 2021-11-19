@@ -1,5 +1,5 @@
 <h2><em> Hi, I'm Soroush! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://cdn.discordapp.com/attachments/869114893096345600/911259802364178463/Logo.png" width="230">
 <p>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
