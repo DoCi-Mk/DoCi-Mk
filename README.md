@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <samp> Let's connect and chat! :incoming_envelope: </samp>
 </p>
 
 <p align="center">
